@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Java IDE</string>
+    <string name="editor_hint">Type your source code in this area, or open an existing file.</string>
+    <string name="open_file">Open File</string>
+    <string name="save_file">Save File</string>
+    <string name="run">Execute Code</string>
+    <string name="title_activity_output">OutputActivity</string>
+    <string name="enter_stdin">Enter Stdin</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OutputActivity">
+
+    <EditText
+        android:id="@+id/output"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/app_background"
+        android:ems="10"
+        android:enabled="false"
+        android:fontFamily="@font/source_code_pro"
+        android:gravity="top|start"
+        android:inputType="textMultiLine|textNoSuggestions"
+        android:singleLine="false"
+        android:textColor="@color/app_foreground"
+        android:textColorHighlight="@color/app_selection"
+        android:textSize="20sp" />
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="app_background">#272822</color>
+    <color name="options_bar">#23241E</color>
+    <color name="app_foreground">#f8f8f2</color>
+    <color name="app_selection">#ccccc7</color>
+    <color name="status_bar">#282923</color>
+    <color name="action_bar">#2D2E27</color>
+    <color name="black">#000000</color>
+</resources>
